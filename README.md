@@ -6,9 +6,10 @@ Engineered specifically for consumption by **real-time voice agents**, **enterpr
 
 ---
 
-<img width="1008" height="470" alt="image" src="https://github.com/user-attachments/assets/15fdcece-1306-450e-b045-96bd51a7db7c" />
+<img width="1030" height="532" alt="image" src="https://github.com/user-attachments/assets/df74ff6c-3631-4290-90fb-a96386ddb7b6" />
 
-[![Watch Video](https://github.com/user-attachments/assets/15fdcece-1306-450e-b045-96bd51a7db7c)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
+
+[![Watch Video](https://github.com/user-attachments/assets/df74ff6c-3631-4290-90fb-a96386ddb7b6)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
 
 
 

@@ -14,6 +14,12 @@ https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16
 
 [![Watch Video](https://wikimedia.org)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
 
+<div align="center">
+  <a href="https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16">
+    <img src="https://shields.io▶_Watch_Video-Jam-red?style=for-the-badge&logo=youtube" alt="Watch Video" />
+  </a>
+</div>
+
 
 
 ## Table of Contents

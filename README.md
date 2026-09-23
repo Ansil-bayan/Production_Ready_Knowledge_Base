@@ -6,6 +6,12 @@ Engineered specifically for consumption by **real-time voice agents**, **enterpr
 
 ---
 
+<img width="1008" height="470" alt="image" src="https://github.com/user-attachments/assets/15fdcece-1306-450e-b045-96bd51a7db7c" />
+
+[![Watch Video](https://github.com/user-attachments/assets/15fdcece-1306-450e-b045-96bd51a7db7c)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
+
+
+
 ## Table of Contents
 1. [Objective & Architectural Overview](#objective--architectural-overview)
 2. [Why This Tech Stack Was Chosen](#why-this-tech-stack-was-chosen)

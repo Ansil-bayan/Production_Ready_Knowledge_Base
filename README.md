@@ -5,6 +5,20 @@ A production-grade, end-to-end data engineering and retrieval-augmented generati
 Engineered specifically for consumption by **real-time voice agents**, **enterprise RAG systems**, **AI Copilots**, and **smaller/local language models (SLMs)**.
 
 ---
+## DEMO VIDEO
+
+
+
+[![Watch the Video](https://github.com/user-attachments/assets/83403ee4-ed7a-4536-abaf-bbacf092e273)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
+
+
+
+
+
+
+
+
+
 
 ## Table of Contents
 1. [Objective & Architectural Overview](#objective--architectural-overview)

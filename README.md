@@ -5,20 +5,16 @@ A production-grade, end-to-end data engineering and retrieval-augmented generati
 Engineered specifically for consumption by **real-time voice agents**, **enterprise RAG systems**, **AI Copilots**, and **smaller/local language models (SLMs)**.
 
 ---
-
-<img width="1030" height="532" alt="image" src="https://github.com/user-attachments/assets/df74ff6c-3631-4290-90fb-a96386ddb7b6" />
-
 ## DEMO VIDEO
 https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16
 
 
-[![Watch Video](https://wikimedia.org)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
+<img width="1030" height="532" alt="image" src="https://github.com/user-attachments/assets/df74ff6c-3631-4290-90fb-a96386ddb7b6" />
 
-<div align="center">
-  <a href="https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16">
-    <img src="https://shields.io▶_Watch_Video-Jam-red?style=for-the-badge&logo=youtube" alt="Watch Video" />
-  </a>
-</div>
+
+
+
+
 
 
 

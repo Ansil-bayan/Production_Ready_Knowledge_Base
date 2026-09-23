@@ -12,7 +12,7 @@ Engineered specifically for consumption by **real-time voice agents**, **enterpr
 https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16
 
 
-[![Watch Video](https://shields.io▶_Play_Demo-Jam.dev-blue?style=for-the-badge)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
+[![Watch Video](https://wikimedia.org)](https://jam.dev/c/92a6db1e-d2a1-48b6-9f0c-d8ff84b30f16)
 
 
 
